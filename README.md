@@ -2,6 +2,8 @@
  
 In conclusion, monitoring water quality using satellite imagery, GIS techniques, and machine learning is crucial to ensure safe water consumption and protect the  environment. These technologies provide a broad and detailed view of the region, which is essential for developing appropriate strategies to address water quality issues. The project's findings and recommendations can inform stakeholders to implement effective and sustainable monitoring programs to ensure the long-term help.
 
+Language- python.
+Google Earth API is used.
 # INSIGHTS AND UI OF THIS PROJECT IS SHOWN BELOW:-
 
 ![Screenshot (5536)](https://user-images.githubusercontent.com/80636537/232020299-33d4acb7-cdff-4bfd-a736-86b9b9abc17f.png)
