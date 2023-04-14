@@ -1,6 +1,6 @@
 ﻿# Water-quality-dashboard
  
-In conclusion, monitoring water quality using satellite imagery, GIS techniques, and machine learning is crucial to ensure safe water consumption and protect the  environment. These technologies provide a broad and detailed view of the region, which is essential for developing appropriate strategies to address water quality issues. The project's findings and recommendations can inform stakeholders to implement effective and sustainable monitoring programs to ensure the long-term help.
+The project aims to monitor water quality In Bhopal region which is known as yhe "CITY OF LAKES" using satellite imagery, GIS techniques, and machine learning is crucial to ensure safe water consumption and protect the  environment. These technologies provide a broad and detailed view of the region, which is essential for developing appropriate strategies to address water quality issues. The project's findings and recommendations can inform stakeholders to implement effective and sustainable monitoring programs to ensure the long-term help.
 
 Language- python.
 Google Earth API is used.
